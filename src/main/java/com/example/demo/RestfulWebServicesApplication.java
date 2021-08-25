@@ -11,9 +11,6 @@ import org.springframework.web.servlet.i18n.AcceptHeaderLocaleResolver;
 import org.springframework.web.servlet.i18n.SessionLocaleResolver;
 
 /**
- * Swagger2 is an open source project used to generate the REST API documents for RESTful web services. It provides a user interface to access our RESTful 
- * web services via the web browser.
- * 
  * 'spring-data-rest-hal-browser' dependency is used to show & invoke all services in browser. To open HAL dashboard, just type 
  * 'localhost:8080', it will lead to HAL browser URL 'http://localhost:8080/browser/index.html#/'
  * http://localhost:8080/actuator/metrics
